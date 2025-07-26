@@ -22,7 +22,7 @@
 
 | Domain      | Primary                                                                 | Comfortable                                                                                  | Currently Exploring                                                                 |
 |-------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Data        | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |                                                                                     |
+| Data        | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) |                                                                                       |                                                                                     |
 | Programming |                                                                         | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |                                                                                     |
 
 </div>
