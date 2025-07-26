@@ -18,10 +18,12 @@
 ## 🧰 Tech Stack & Tools
 <div align="center">
 
+## 🧰 Tech Stack & Tools
+
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|---------------------|
+| Data | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) | - | - |
 
-| Data | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) |---------|---------------------|
 
 </div>
 
