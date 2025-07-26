@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
+- 🌱  I’m currently learning **Data pipelining**  
 - 🛠  Daily driver stack: **SQl, python**  
-- 🎯  2025 Goal: **Data Engineer**  
+- 🎯  2025 Goal: **Building a Data pipeline project, Mastering AWS tools**  
 - 📫  Reach me: **phurinchaz@gmail.com** | [LinkedIn](https://www.linkedin.com/in/phurinut-intawichian-b03107369/).
 
 ---
@@ -25,7 +25,7 @@
 | Domain      | Primary                                                                 | Comfortable                                                                                                                   | Currently Exploring                                                                 |
 |-------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | Data        | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white)                                                | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
-| Programming |                                                                         | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |                                                                                     |
+| Programming |                                                                         | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |                                                                                     |
 
 </div>
 
@@ -34,9 +34,9 @@
 ## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
 |---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
+| **Movie Sentiment Analysis With Process Swapping Simulation** | Python · sklearn · LogisticRegression | Prediction Accuracy; 87.5% | [Repo](https://github.com/frieRynz/OS_projerct-Antony2008) |
+| **T-shirt Design & Customization Platform** | MySQL · Relational Database Design | Designed entire database schema; wrote complex SQL queries for backend | [Repo](https://github.com/MUICT-Class/672-projectphase2-sec2_group10) |
+
 
 _Add 2–4 projects max. Each row should fit on one screen._
 
@@ -46,8 +46,8 @@ _Add 2–4 projects max. Each row should fit on one screen._
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=frieRynz&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frieRynz&layout=compact&hide_border=true" />
 </div>
 
 ---
@@ -58,5 +58,5 @@ _Add 2–4 projects max. Each row should fit on one screen._
 - 💌 Email: ⟪phurinchaz@gmail.com⟫  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=frieRynz&style=flat-square" alt="profile views"/>
 </p>
