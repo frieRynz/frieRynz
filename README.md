@@ -38,8 +38,6 @@
 | **T-shirt Design & Customization Platform** | MySQL · Relational Database Design | Designed entire database schema; wrote complex SQL queries for backend | [Repo](https://github.com/MUICT-Class/672-projectphase2-sec2_group10) |
 
 
-_Add 2–4 projects max. Each row should fit on one screen._
-
 ---
 
 ---
