@@ -20,10 +20,10 @@
 
 ## 🧰 Tech Stack & Tools
 
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|-------------|---------------------|
-| Data   | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
-| Programming | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
+| Domain      | Primary                                                                 | Comfortable                                                                                  | Currently Exploring                                                                 |
+|-------------|-------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| Data        | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) |                                                                                     |
+| Programming |                                                                         | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |                                                                                     |
 
 </div>
 
