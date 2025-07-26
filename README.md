@@ -1,8 +1,4 @@
 <!-- Banner / Cover -->
-<p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
-</p>
-
 <h1 align="center">Hi, I’m Phurinat Intawichian <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
@@ -25,8 +21,7 @@
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|---------------------|
 
-| Data | ![MySQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) |
-| ... |  |  |  |
+| Data | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) | | |
 
 </div>
 
