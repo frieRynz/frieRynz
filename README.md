@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m currently learning **Data pipelining**  
+- 🌱  I’m interested in DBMS, and Data engineering**  
 - 🛠  Daily driver stack: **SQl, python**  
 - 🎯  2025 Goal: **Building a Data pipeline project, Mastering AWS tools**  
 - 📫  Reach me: **phurinchaz@gmail.com** | [LinkedIn](https://www.linkedin.com/in/phurinut-intawichian-b03107369/).
@@ -20,7 +20,7 @@
 
 | Domain      | Primary                                                                 | Comfortable                                                                                                                   | Currently Exploring                                                                 |
 |-------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| Data        | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white)                                                | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
+| Data        | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4169E1?logo=mysql&logoColor=white)                                                | ![MongoDB] ![ElasticSearch](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)(https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
 | Programming |                                                                         | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white) |                                                                                     |
 
 </div>
