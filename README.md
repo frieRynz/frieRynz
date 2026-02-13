@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m interested in DBMS, and Data engineering
-- 🛠  Daily driver stack: **SQL, python**  
-- 🎯  2025 Goal: **Building a Data pipeline project, Mastering AWS tools**  
+- 🌱  I’m interested in Database Design, and realted fields.
+- 🛠  Daily driver stack: **SQL, python, docker**  
+- 🎯  2026 Goal: **....**  
 - 📫  Reach me: **phurinchaz@gmail.com** | [LinkedIn](https://www.linkedin.com/in/phurinut-intawichian-b03107369/).
 
 ---
