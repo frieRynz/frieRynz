@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m interested in Database Design, and realted fields.
+- 🌱  I’m interested in Database Design, and related fields.
 - 🛠  Daily driver stack: **SQL, python, docker**  
 - 🎯  2026 Goal: **....**  
 - 📫  Reach me: **phurinchaz@gmail.com** | [LinkedIn](https://www.linkedin.com/in/phurinut-intawichian-b03107369/).
