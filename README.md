@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m interested in Database Design, and related fields.
-- 🛠  Daily driver stack: **RDBMS, SQL, Python for data manipulation**  
-- 🎯  2026 Goal: **Database Administration Mastery**  
+- 🌱  I’m capable of Relational Database Design, Data Modeling, and Data Warehouse Architecture
+- 🛠  Working primarily with: **RDBMS, SQL, Python for data manipulation & analytics**  
+- 🎯  Currently pursuing expertise in: **Database Administration and Query Optimization**  
 - 📫  Reach me: **phurinchaz@gmail.com** | [LinkedIn](https://www.linkedin.com/in/phurinut-intawichian-b03107369/).
 
 ---
@@ -37,9 +37,10 @@
 ---
 
 ## 📈 GitHub Stats
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=frieRynz&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frieRynz&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=frierynz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=frierynz&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
