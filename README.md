@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱  I’m capable of Relational Database Design, Data Modeling, and Data Warehouse Architecture
+- 🌱  Capability: **Relational Database Design**, **Data Modeling**, and **Data Warehouse Architecture**
 - 🛠  Working primarily with: **RDBMS, SQL, Python for data manipulation & analytics**  
 - 🎯  Currently pursuing expertise in: **Database Administration and Query Optimization**  
 - 📫  Reach me: **phurinchaz@gmail.com** | [LinkedIn](https://www.linkedin.com/in/phurinut-intawichian-b03107369/).
